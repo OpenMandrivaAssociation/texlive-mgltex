@@ -1,6 +1,6 @@
 Name:		texlive-mgltex
 Version:	63255
-Release:	1
+Release:	2
 Summary:	High-quality graphics from MGL scripts embedded in LaTeX documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/mgltex
